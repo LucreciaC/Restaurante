@@ -1,0 +1,109 @@
+{
+    "menu": [
+        {
+            "kategori": "pizza",
+            "nama": "Amante de la carne",
+            "deskripsi": "Rebanadas de salchicha de res, carne de res molida, hamburguesa de res, salchicha de pollo.",
+            "harga": 49500,
+            "gambar": "img/menu/american-favourite.jpg"
+        },
+        {
+            "kategori": "pizza",
+            "nama": "Super Suprema",
+            "deskripsi": "Carne de pollo y res ahumada, carne de res molida, hamburguesa de res, champiñones, pimientos rojos y verdes.",
+            "harga": 49500,
+            "gambar": "supreme.jpg"
+        },
+        {
+            "kategori": "pizza",
+            "nama": "Tuna Melt",
+            "deskripsi": "Rebanadas de atún, granos de maíz, salsa mayonesa.",
+            "harga": 49500,
+            "gambar": "tuna-melt.jpg"
+        },
+        {
+            "kategori": "pizza",
+            "nama": "Favorito Americano",
+            "deskripsi": "Pepperoni de res, carne de res molida, champiñones.",
+            "harga": 49500,
+            "gambar": "american-favourite.jpg"
+        },
+        {
+            "kategori": "pasta",
+            "nama": "Espaguetis de Res",
+            "deskripsi": "Pepperoni de res, carne de res molida, champiñones.",
+            "harga": 43000,
+            "gambar": "beef-spaghetti.jpg"
+        },
+        {
+            "kategori": "pasta",
+            "nama": "Lasaña de Res",
+            "deskripsi": "Horneada, carne de res molida. Crema blanca suave en cada capa.",
+            "harga": 48000,
+            "gambar": "beef-lasagna.jpg"
+        },
+        {
+            "kategori": "pasta",
+            "nama": "Fettuccine de Res Cremoso",
+            "deskripsi": "Carne de res ahumada y champiñones, salteados con salsa cremosa.",
+            "harga": 43000,
+            "gambar": "creamy-beef-fettuccine.jpg"
+        },
+        {
+            "kategori": "Estofado",
+            "nama": "Albóndigas de Res con Champiñones",
+            "deskripsi": "Bolas de carne de res con salsa de carne de res molida y champiñones.",
+            "harga": 40000,
+            "gambar": "meatballs-beef-mushroom.jpg"
+        },
+        {
+            "kategori": "Estofado",
+            "nama": "Pollo a la Pimienta Negra",
+            "deskripsi": "Pollo con salsa de pimienta negra.",
+            "harga": 40000,
+            "gambar": "black-pepper-chicken.jpg"
+        },
+        {
+            "kategori": "Estofado",
+            "nama": "Pollo Oriental",
+            "deskripsi": "Pollo mezclado con salsa oriental.",
+            "harga": 40000,
+            "gambar": "oriental-chicken.jpg"
+        },
+        {
+            "kategori": "Bebida",
+            "nama": "Choco Menta",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "choco-mint.jpg"
+        },
+        {
+            "kategori": "Bebida",
+            "nama": "Café Toffee",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "toffee-coffee.jpg"
+        },
+        {
+            "kategori": "Bebida",
+            "nama": "Batido de Té Verde",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "green-tea-shake.jpg"
+        },
+        {
+            "kategori": "Bebida",
+            "nama": "Batido de Fresa",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "strawberry-milkshake.jpg"
+        },
+        {
+            "kategori": "Bebida",
+            "nama": "Batido de Chocolate",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "chocolate-milkshake.jpg"
+        }
+    ]
+}
